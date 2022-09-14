@@ -47,7 +47,13 @@
     "react-markdown": "8.0.3",
     "react-share": "4.4.0",
     "react-slick": "0.29.0",
-    "s3-deploy": "1.4.0"
+    "s3-deploy": "1.4.0",
+    "sass": "1.54.9",
+    "shelljs": "0.8.5",
+    "start-server-and-test": "1.14.0",
+    "stream-json": "1.7.4",
+    "styled-components": "5.3.5",
+    "terser": "5.15.0"
   },
   "devDependencies": {
     "prettier": "2.7.1"
