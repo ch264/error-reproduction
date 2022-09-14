@@ -7,6 +7,10 @@
   "dependencies": {
     "@amplitude/ampli": "^1.21.0",
     "@amplitude/node": "^1.10.2",
+    "amplitude-js": "^8.21.0",
+    "aws-sdk": "^2.1216.0",
+    "axios": "^0.27.2",
+    "base-64": "^1.0.0",
     "gatsby": "^4.23.0",
     "gatsby-plugin-client-side-redirect": "^1.1.0",
     "gatsby-plugin-gdpr-cookies": "^2.0.9",
